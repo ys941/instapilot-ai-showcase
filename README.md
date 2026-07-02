@@ -124,7 +124,7 @@ Single-flight render lock, JSON-resilient AI fallbacks, and self-healing claim-l
 | | Step | What the AI does |
 |:--:|---|---|
 | 🧪 | **Invents topics** | From your list, auto-expanded by AI so content never repeats |
-| ✍️ | **Writes the content** | Hooks, body, CTA, hashtags — in your niche and voice |
+| ✍️ | **Writes the content** | Hooks, body, CTA, hashtags — in your niche and voice, with **quality-gated titles** and enforced topic de-dup |
 | 🎨 | **Designs the visuals** | Branded image cards, multi-image carousels, and a daily Story |
 | 🎞️ | **Builds the Shorts** | Vertical multi-slide videos with mood-matched music, AI search tags, and optional AI voiceover + auto-translated captions |
 | 📤 | **Publishes everywhere** | Native IG posts/carousels/Stories + YouTube Shorts, on a per-weekday schedule |
