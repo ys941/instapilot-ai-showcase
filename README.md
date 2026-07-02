@@ -79,15 +79,15 @@ Auto-replies to IG comments & DMs — even **voice notes → transcribed → spo
 <td width="50%" valign="top">
 
 ### 🎨 White-label, zero code
-App name, niche, persona, handles, content labels — all from the **Settings UI**. Re-skin for any niche in minutes.
+App name, niche, persona, handles, content labels — and **10 built-in dashboard themes** — all from the **Settings UI**. Re-skin for any niche in minutes.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 🧠 Two AI brains, never stalls
-**Grok + Gemini** with automatic fallback chains keep content flowing through any outage.
+### 🧠 Three AI brains, never stalls
+**Grok · Gemini · Cerebras** with **per-task fallback chains** — pick a provider, model, and backups for content, replies, and vision separately, so a single outage never stops your content.
 
 </td>
 <td width="50%" valign="top">
@@ -126,9 +126,9 @@ Single-flight render lock, JSON-resilient AI fallbacks, and self-healing claim-l
 | 🧪 | **Invents topics** | From your list, auto-expanded by AI so content never repeats |
 | ✍️ | **Writes the content** | Hooks, body, CTA, hashtags — in your niche and voice, with **quality-gated titles** and enforced topic de-dup |
 | 🎨 | **Designs the visuals** | Branded image cards, multi-image carousels, and a daily Story |
-| 🎞️ | **Builds the Shorts** | Vertical multi-slide videos with mood-matched music, AI search tags, and optional AI voiceover + auto-translated captions |
+| 🎞️ | **Builds the Shorts** | Vertical multi-slide videos at a **length you pick (15–60s)**, with mood-matched music, AI search tags, and optional AI voiceover + auto-translated captions |
 | 📤 | **Publishes everywhere** | Native IG posts/carousels/Stories + YouTube Shorts, on a per-weekday schedule |
-| 🔁 | **Cross-posts** | Shorts become Instagram Reels on their own timing (opt-in) |
+| 🔁 | **Cross-posts** | Shorts become Instagram Reels on their own timing, and optionally native **Facebook Page Reels** too (opt-in) |
 | 💬 | **Engages** | Instant replies to IG comments & DMs (incl. voice) and YouTube comments |
 | 📊 | **Reports** | Syncs analytics for both platforms and emails a daily digest |
 
@@ -185,8 +185,8 @@ Visuals render server-side with **Satori → SVG → Sharp** (container-proof), 
 
 <div align="center">
 
-**Next.js 16** · **React 18** · **TypeScript** · **PostgreSQL + Prisma** · **Grok (Groq Llama-3.3-70B)** · **Google Gemini** · **Whisper + Gemini TTS**
-**Satori + Sharp** · **ffmpeg** · **Jamendo** · **Cloudinary** · **Instagram Graph API + webhooks** · **YouTube Data API v3** · **Resend** · **Railway / Docker**
+**Next.js 16** · **React 18** · **TypeScript** · **PostgreSQL + Prisma** · **Grok (Groq Llama-3.3-70B)** · **Google Gemini** · **Cerebras** · **Whisper + Gemini TTS**
+**Satori + Sharp** · **ffmpeg** · **Jamendo** · **Cloudinary** · **Instagram Graph API + webhooks** · **Facebook Reels** · **YouTube Data API v3** · **Resend** · **Railway / Docker**
 
 </div>
 
