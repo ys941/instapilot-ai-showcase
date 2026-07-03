@@ -110,7 +110,7 @@ Narrate every Short with a natural AI voice — **perfectly synced to each card*
 <td width="50%" valign="top">
 
 ### 🛡️ Built to never miss a beat
-Single-flight render lock, JSON-resilient AI fallbacks, and self-healing claim-locks keep posts flowing without duplicates or downtime.
+Single-flight render lock (with fetch timeouts so a stuck URL can't wedge it), retried id-persist + a 45-min claim reaper so a post never publishes twice, JSON-resilient AI fallbacks, and hardened auth (login rate-limit, SSRF-guarded media) keep posts flowing without duplicates or downtime.
 
 </td>
 </tr>
