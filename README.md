@@ -54,6 +54,9 @@ Running a serious Instagram **and** YouTube presence is two full-time jobs: idea
 
 ## ✨ Why it's different
 
+> ### 🪄 New — AI Setup: describe your brand, the AI configures it
+> Skip the forms. In **Settings → AI Setup**, describe your brand in a sentence — **Groq asks the questions it needs**, then generates the whole config (niche, persona, handles, content labels, topics, schedule). Review a preview and **Apply**. Manual setup is still there whenever you want it.
+
 <table>
 <tr>
 <td width="50%" valign="top">
