@@ -30,7 +30,7 @@ Posts, carousels, Stories, Shorts, Reels, comments, DMs — all on autopilot.
 <br />
 <br />
 
-<kbd>📱 Instagram</kbd> &nbsp; <kbd>▶️ YouTube</kbd> &nbsp; <kbd>🎨 White-label</kbd> &nbsp; <kbd>🏢 Multi-account</kbd> &nbsp; <kbd>🔑 Self-hosted</kbd>
+<kbd>📱 Instagram</kbd> &nbsp; <kbd>▶️ YouTube</kbd> &nbsp; <kbd>🎨 White-label</kbd> &nbsp; <kbd>🏢 Multi-account</kbd> &nbsp; <kbd>📲 Installable app</kbd> &nbsp; <kbd>🔑 Self-hosted</kbd>
 
 </div>
 
